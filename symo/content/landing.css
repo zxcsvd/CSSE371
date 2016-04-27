@@ -1,0 +1,15 @@
+div {
+text-align: center;
+border: 2px inset gray;
+}
+
+ul {
+float: left;
+}
+
+#gameBox{
+width: 60vw;
+height: 60vw;
+margin: auto;
+display: block;
+}
